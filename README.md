@@ -1,3 +1,5 @@
+Note: staff username - aman
+password -123
 E-Commerce Management System (C++)
 A console-based E-Commerce Management System built using C++. This project allows users to log in as either Staff or Customer, each with specific functionalities.
 
